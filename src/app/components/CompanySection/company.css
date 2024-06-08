@@ -1,0 +1,88 @@
+.company{
+    width: 1920px;
+    height: 876px;
+    top: 1877px;
+    gap: 0px;
+    opacity: 0.05px;
+    background-color: #E8E8EC;
+    margin: auto;
+    padding-top:100px ;   
+}
+.company .container{
+    display: flex;
+    justify-content: space-between;
+}
+.Comapany__info h2{
+    
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    margin-bottom: 60px;
+    
+    
+}
+.info__text{
+    width: 636px;
+    height: 550px;
+    gap: 16px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: #313131;
+}
+.info__text p{
+    margin-bottom: 16px;
+}
+.info__text ul li{
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+.Company__video{
+    margin-top: 116px;
+}
+.Company__video iframe{
+    border-radius: 20px;
+}
+.company__info__box{
+    width: 526px;
+    height:170px;
+    padding: 30px 35px 30px 35px;
+    gap: 38px;
+    border-radius: 20px;
+    opacity: 0px;
+    background-color: #5DB7DE;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.company__info__box .box__text1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 18.2px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    
+
+}
+.company__info__box .box__text2{
+    color: white;
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 26.6px;
+    text-align: left;
+    margin-top: 38px;
+
+
+
+}

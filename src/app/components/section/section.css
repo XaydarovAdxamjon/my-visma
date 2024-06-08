@@ -1,0 +1,96 @@
+.section{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.section .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left__section{
+    width: 306px;
+    height: 333px;
+}
+.left__section h1{
+
+    font-family:sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    margin-bottom: 60px;
+
+}
+
+.pdf{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.pdf__text p{
+
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: #3D348B;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+ 
+    /* border-bottom: 1px dashed black; */
+}
+.pdf__button button{
+    width: 46px;
+    height: 34px;
+    padding: 8px 10px 8px 10px;
+    border-radius: 10px;
+    background-color: #5DB7DE;
+    border: #5DB7DE;
+    color: white;
+}
+
+
+
+
+.right__section{
+    width: 856px;
+    height: 717px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.section__box{
+    width: 416px;
+    height: 223px;
+    padding: 30px 35px 30px 35px;
+    gap: 118px;
+    border-radius: 20px ;
+    opacity: 0px;
+    background-color: #3D348B;
+
+}
+.section__box .text1{
+
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 18.2px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: white;
+    margin-bottom: 118px;
+
+}
+.section__box .text2{
+
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: white;
+
+}

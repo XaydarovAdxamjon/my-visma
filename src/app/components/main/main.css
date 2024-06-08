@@ -1,0 +1,102 @@
+
+
+.main{
+    width: 1920px;
+    height: 750px;
+    top: 110px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    background: url(../../../rasmlar/main.svg) center center  / cover;
+    padding-top: 113px;
+    
+}
+.main .container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    
+}
+.left__main{
+    width: 526px;
+    height: 336px;
+    top: 290px;
+    gap: 60px;
+    opacity: 0px;
+    margin-top: 67px;
+}
+.left__main h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 70px;
+    text-align: left;
+    color: white;
+
+}
+.text__info{
+    width: 322px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 60px;
+
+}
+.info{
+    display: inline-block;;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22.4px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: white;
+
+}
+.main__icon{
+    width: 15px;
+    height: 15px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+   
+    margin-left: 5px;
+
+}
+
+
+.right__main{
+    width: 636px;
+    height: 535px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.main__box{
+    width: 306px;
+    height: 250px;
+    background-color: #5DB7DE;
+    border-radius: 20px;
+    padding: 30px 35px 30px 35px;
+  
+}   
+.main__box .text1{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: white;
+    margin-bottom: 118px;
+}
+.main__box  .text2{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 118px;
+    line-height: 26px;
+}
