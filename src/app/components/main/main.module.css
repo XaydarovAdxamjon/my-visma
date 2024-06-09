@@ -7,14 +7,16 @@
     gap: 0px;
     opacity: 0px;
     margin: auto;
-    background: url(../../../rasmlar/main.svg) center center  / cover;
+    background: url(../../rasmlar/main.svg) center center  / cover;
     padding-top: 113px;
     
 }
 .main .container{
-    width: 100%;
+    
     display: flex;
     justify-content: space-between;
+    margin: auto;
+    max-width: 1296px;
     margin: auto;
     
 }

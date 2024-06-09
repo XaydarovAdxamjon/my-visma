@@ -1,9 +1,9 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons"
-import news1 from "../../../rasmlar/news1.svg"
-import news2 from "../../../rasmlar/news2.png"
-import news3 from "../../../rasmlar/news3.png"
-import news4 from "../../../rasmlar/news4.png"
+import news1 from "../../rasmlar/news1.svg"
+import news2 from "../../rasmlar/news2.png"
+import news3 from "../../rasmlar/news3.png"
+import news4 from "../../rasmlar/news4.png"
 import Image from "next/image"
 import './news.css'
 

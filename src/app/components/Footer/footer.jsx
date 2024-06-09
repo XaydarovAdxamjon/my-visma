@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons"
 import { faPhone } from "@fortawesome/free-solid-svg-icons"
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons"
-import logo from "../../../rasmlar/footer__logo.png"
+import logo from "../../rasmlar/footer__logo.png"
 import Image from "next/image"
 import "./footer.css"
 
