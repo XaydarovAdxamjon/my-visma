@@ -11,6 +11,8 @@
     background-color: #5A539C;
 }
 .footer__nav .container{
+    max-width: 1296px;
+    margin: auto;
     height: 70px;
     display: flex;
     justify-content: space-between;
@@ -47,6 +49,10 @@
     width: 1920px;
     background-color: #3D348B;
     padding-top: 80px;
+}
+.footer__info .container{
+    max-width: 1296px;
+    margin: auto;
 }
 .footer__info__items{
     width: 100%;

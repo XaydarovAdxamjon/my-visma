@@ -1,5 +1,7 @@
 
 .news .container{
+    max-width: 1296px;
+    margin: auto;
     margin-top: 150px;
     margin-bottom: 150px;
    

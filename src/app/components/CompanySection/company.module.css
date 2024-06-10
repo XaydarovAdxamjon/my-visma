@@ -9,6 +9,8 @@
     padding-top:100px ;   
 }
 .company .container{
+    max-width: 1296px;
+    margin: auto;
     display: flex;
     justify-content: space-between;
 }
